@@ -12,7 +12,7 @@ I am still very new to this and learning as I go. I use this on products that ar
 
 ******* 
 Road Map
-******* 
+
 1. Optimize the file to have split settings and main code.
 2. Option to select multiple categories and have their own settings.
 3. Option to select single products instead of a whole category.
@@ -20,3 +20,4 @@ Road Map
 5. Fix issue with price validation between min/max where I have to have code to reload the page since the error message only pops up after a refresh.
 6. Make the text field better looking.
 7. TBD
+******* 
